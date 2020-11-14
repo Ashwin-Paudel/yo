@@ -2,6 +2,7 @@
          {
             "channelName":"Wonixer",
             "channelURL":"https://www.youtube.com/channel/UCx7zp7a_k2RbCFnlNopnAew",
+            "channelImageURL": "https://yt3.ggpht.com/ytc/AAUvwng8Qis-97GD9VA2fYvyvWlpGtUmGZ0vu_2ZA5Ma=s176-c-k-c0x00ffffff-no-rj",
            "channelID":"UCx7zp7a_k2RbCFnlNopnAew",
             "points": 50
          },
@@ -9,12 +10,14 @@
             "channelName":"Winixer",
             "channelURL":"https://www.youtube.com/channel/UCiIWVg2Z3TA46C8IqYfu5Ug",
             "channelID":"UCiIWVg2Z3TA46C8IqYfu5Ug",
+            "channelImageURL": "https://yt3.ggpht.com/a/AATXAJyAa_buga8-Xb4DdowzDBWphYpVtGFTKDtB4PfOPA=s176-c-k-c0x00ffffff-no-rj",
             "points": 40
          },
          {
             "channelName":"Wonixer Development",
             "channelURL":"https://www.youtube.com/channel/UCLgT0zqzn7XuAdGqe3jFGOg",
             "channelID":"UCLgT0zqzn7XuAdGqe3jFGOg",
+            "channelImageURL": "https://yt3.ggpht.com/a/AATXAJxMUAyayYoUl4nzr_AQTDmYQTgzaOiiotvZbmHV=s176-c-k-c0x00ffffff-no-rj",
             "points": 45
          }
 ]
